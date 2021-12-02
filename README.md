@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @adisadis1234
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Powerapp
+- 🌱 I’m currently working on Powerapps
+- 🌱 I’m currently learning Flutter
+
 - 📫 How to reach me linkedin.com/in/aditya-singh-10b999206
 
 <!---
